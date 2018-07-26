@@ -1,0 +1,187 @@
+[INFO  - 2018-07-26T02:24:01.028Z] GhostDriver - Main - running on port 13616
+[INFO  - 2018-07-26T02:24:01.781Z] Session [f5b8f7f0-907a-11e8-a3f4-b547692c8a0d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-26T02:24:01.781Z] Session [f5b8f7f0-907a-11e8-a3f4-b547692c8a0d] - page.customHeaders:  - {}
+[INFO  - 2018-07-26T02:24:01.781Z] Session [f5b8f7f0-907a-11e8-a3f4-b547692c8a0d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-26T02:24:01.782Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f5b8f7f0-907a-11e8-a3f4-b547692c8a0d
+[ERROR - 2018-07-26T02:24:04.040Z] Session [f5b8f7f0-907a-11e8-a3f4-b547692c8a0d] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:24:04.040Z] Session [f5b8f7f0-907a-11e8-a3f4-b547692c8a0d] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[ERROR - 2018-07-26T02:24:04.581Z] Session [f5b8f7f0-907a-11e8-a3f4-b547692c8a0d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.pageScript.includes("pages/root")')
+[ERROR - 2018-07-26T02:24:04.581Z] Session [f5b8f7f0-907a-11e8-a3f4-b547692c8a0d] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/init-7a220300.js:19)
+[ERROR - 2018-07-26T02:24:04.595Z] Session [f5b8f7f0-907a-11e8-a3f4-b547692c8a0d] - page.onError - msg: TypeError: undefined is not an object (evaluating 'MC.ScriptLoader.load')
+[ERROR - 2018-07-26T02:24:04.595Z] Session [f5b8f7f0-907a-11e8-a3f4-b547692c8a0d] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/site-e4ab2150.js:1)
+[ERROR - 2018-07-26T02:24:06.162Z] Session [f5b8f7f0-907a-11e8-a3f4-b547692c8a0d] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:24:06.162Z] Session [f5b8f7f0-907a-11e8-a3f4-b547692c8a0d] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[INFO  - 2018-07-26T02:24:38.962Z] GhostDriver - Main - running on port 2321
+[INFO  - 2018-07-26T02:24:39.431Z] Session [0c2998f0-907b-11e8-95ad-63fa5ac86cf0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-26T02:24:39.431Z] Session [0c2998f0-907b-11e8-95ad-63fa5ac86cf0] - page.customHeaders:  - {}
+[INFO  - 2018-07-26T02:24:39.431Z] Session [0c2998f0-907b-11e8-95ad-63fa5ac86cf0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-26T02:24:39.432Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0c2998f0-907b-11e8-95ad-63fa5ac86cf0
+[ERROR - 2018-07-26T02:24:40.411Z] Session [0c2998f0-907b-11e8-95ad-63fa5ac86cf0] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:24:40.411Z] Session [0c2998f0-907b-11e8-95ad-63fa5ac86cf0] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[ERROR - 2018-07-26T02:24:40.928Z] Session [0c2998f0-907b-11e8-95ad-63fa5ac86cf0] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.pageScript.includes("pages/root")')
+[ERROR - 2018-07-26T02:24:40.928Z] Session [0c2998f0-907b-11e8-95ad-63fa5ac86cf0] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/init-7a220300.js:19)
+[ERROR - 2018-07-26T02:24:40.942Z] Session [0c2998f0-907b-11e8-95ad-63fa5ac86cf0] - page.onError - msg: TypeError: undefined is not an object (evaluating 'MC.ScriptLoader.load')
+[ERROR - 2018-07-26T02:24:40.942Z] Session [0c2998f0-907b-11e8-95ad-63fa5ac86cf0] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/site-e4ab2150.js:1)
+[ERROR - 2018-07-26T02:24:43.357Z] Session [0c2998f0-907b-11e8-95ad-63fa5ac86cf0] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:24:43.357Z] Session [0c2998f0-907b-11e8-95ad-63fa5ac86cf0] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[INFO  - 2018-07-26T02:26:15.419Z] GhostDriver - Main - running on port 36350
+[INFO  - 2018-07-26T02:26:15.858Z] Session [45a357b0-907b-11e8-b66d-d74dc0aa7cf9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-26T02:26:15.858Z] Session [45a357b0-907b-11e8-b66d-d74dc0aa7cf9] - page.customHeaders:  - {}
+[INFO  - 2018-07-26T02:26:15.858Z] Session [45a357b0-907b-11e8-b66d-d74dc0aa7cf9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-26T02:26:15.858Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 45a357b0-907b-11e8-b66d-d74dc0aa7cf9
+[ERROR - 2018-07-26T02:26:16.766Z] Session [45a357b0-907b-11e8-b66d-d74dc0aa7cf9] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:26:16.767Z] Session [45a357b0-907b-11e8-b66d-d74dc0aa7cf9] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[ERROR - 2018-07-26T02:26:17.306Z] Session [45a357b0-907b-11e8-b66d-d74dc0aa7cf9] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.pageScript.includes("pages/root")')
+[ERROR - 2018-07-26T02:26:17.322Z] Session [45a357b0-907b-11e8-b66d-d74dc0aa7cf9] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/init-7a220300.js:19)
+[ERROR - 2018-07-26T02:26:17.339Z] Session [45a357b0-907b-11e8-b66d-d74dc0aa7cf9] - page.onError - msg: TypeError: undefined is not an object (evaluating 'MC.ScriptLoader.load')
+[ERROR - 2018-07-26T02:26:17.339Z] Session [45a357b0-907b-11e8-b66d-d74dc0aa7cf9] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/site-e4ab2150.js:1)
+[ERROR - 2018-07-26T02:26:18.859Z] Session [45a357b0-907b-11e8-b66d-d74dc0aa7cf9] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:26:18.859Z] Session [45a357b0-907b-11e8-b66d-d74dc0aa7cf9] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[INFO  - 2018-07-26T02:27:14.877Z] GhostDriver - Main - running on port 47629
+[INFO  - 2018-07-26T02:27:15.630Z] Session [6943ac60-907b-11e8-9ed4-fb516a3ba342] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-26T02:27:15.630Z] Session [6943ac60-907b-11e8-9ed4-fb516a3ba342] - page.customHeaders:  - {}
+[INFO  - 2018-07-26T02:27:15.630Z] Session [6943ac60-907b-11e8-9ed4-fb516a3ba342] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-26T02:27:15.631Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6943ac60-907b-11e8-9ed4-fb516a3ba342
+[ERROR - 2018-07-26T02:27:16.548Z] Session [6943ac60-907b-11e8-9ed4-fb516a3ba342] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:27:16.548Z] Session [6943ac60-907b-11e8-9ed4-fb516a3ba342] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[ERROR - 2018-07-26T02:27:17.069Z] Session [6943ac60-907b-11e8-9ed4-fb516a3ba342] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.pageScript.includes("pages/root")')
+[ERROR - 2018-07-26T02:27:17.069Z] Session [6943ac60-907b-11e8-9ed4-fb516a3ba342] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/init-7a220300.js:19)
+[ERROR - 2018-07-26T02:27:17.086Z] Session [6943ac60-907b-11e8-9ed4-fb516a3ba342] - page.onError - msg: TypeError: undefined is not an object (evaluating 'MC.ScriptLoader.load')
+[ERROR - 2018-07-26T02:27:17.112Z] Session [6943ac60-907b-11e8-9ed4-fb516a3ba342] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/site-e4ab2150.js:1)
+[ERROR - 2018-07-26T02:27:18.630Z] Session [6943ac60-907b-11e8-9ed4-fb516a3ba342] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:27:18.631Z] Session [6943ac60-907b-11e8-9ed4-fb516a3ba342] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[INFO  - 2018-07-26T02:28:35.615Z] GhostDriver - Main - running on port 17195
+[INFO  - 2018-07-26T02:28:36.148Z] Session [9941e5d0-907b-11e8-b6d0-5b7a14787ccc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-26T02:28:36.148Z] Session [9941e5d0-907b-11e8-b6d0-5b7a14787ccc] - page.customHeaders:  - {}
+[INFO  - 2018-07-26T02:28:36.148Z] Session [9941e5d0-907b-11e8-b6d0-5b7a14787ccc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-26T02:28:36.148Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9941e5d0-907b-11e8-b6d0-5b7a14787ccc
+[ERROR - 2018-07-26T02:28:37.135Z] Session [9941e5d0-907b-11e8-b6d0-5b7a14787ccc] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:28:37.135Z] Session [9941e5d0-907b-11e8-b6d0-5b7a14787ccc] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[ERROR - 2018-07-26T02:28:37.683Z] Session [9941e5d0-907b-11e8-b6d0-5b7a14787ccc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.pageScript.includes("pages/root")')
+[ERROR - 2018-07-26T02:28:37.683Z] Session [9941e5d0-907b-11e8-b6d0-5b7a14787ccc] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/init-7a220300.js:19)
+[ERROR - 2018-07-26T02:28:37.697Z] Session [9941e5d0-907b-11e8-b6d0-5b7a14787ccc] - page.onError - msg: TypeError: undefined is not an object (evaluating 'MC.ScriptLoader.load')
+[ERROR - 2018-07-26T02:28:37.698Z] Session [9941e5d0-907b-11e8-b6d0-5b7a14787ccc] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/site-e4ab2150.js:1)
+[ERROR - 2018-07-26T02:28:39.260Z] Session [9941e5d0-907b-11e8-b6d0-5b7a14787ccc] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:28:39.261Z] Session [9941e5d0-907b-11e8-b6d0-5b7a14787ccc] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[INFO  - 2018-07-26T02:29:01.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-07-26T02:29:01.133Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'f5b8f7f0-907a-11e8-a3f4-b547692c8a0d', because windowless
+[INFO  - 2018-07-26T02:29:38.955Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-07-26T02:29:38.956Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '0c2998f0-907b-11e8-95ad-63fa5ac86cf0', because windowless
+[INFO  - 2018-07-26T02:31:15.780Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-07-26T02:31:15.781Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '45a357b0-907b-11e8-b66d-d74dc0aa7cf9', because windowless
+[INFO  - 2018-07-26T02:32:14.869Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-07-26T02:32:14.871Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '6943ac60-907b-11e8-9ed4-fb516a3ba342', because windowless
+[INFO  - 2018-07-26T02:32:23.703Z] GhostDriver - Main - running on port 33022
+[INFO  - 2018-07-26T02:32:24.424Z] Session [215170d0-907c-11e8-af18-d95c4fec87f7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-26T02:32:24.424Z] Session [215170d0-907c-11e8-af18-d95c4fec87f7] - page.customHeaders:  - {}
+[INFO  - 2018-07-26T02:32:24.425Z] Session [215170d0-907c-11e8-af18-d95c4fec87f7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-26T02:32:24.426Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 215170d0-907c-11e8-af18-d95c4fec87f7
+[ERROR - 2018-07-26T02:32:25.410Z] Session [215170d0-907c-11e8-af18-d95c4fec87f7] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:32:25.411Z] Session [215170d0-907c-11e8-af18-d95c4fec87f7] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[ERROR - 2018-07-26T02:32:25.948Z] Session [215170d0-907c-11e8-af18-d95c4fec87f7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.pageScript.includes("pages/root")')
+[ERROR - 2018-07-26T02:32:25.948Z] Session [215170d0-907c-11e8-af18-d95c4fec87f7] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/init-7a220300.js:19)
+[ERROR - 2018-07-26T02:32:25.962Z] Session [215170d0-907c-11e8-af18-d95c4fec87f7] - page.onError - msg: TypeError: undefined is not an object (evaluating 'MC.ScriptLoader.load')
+[ERROR - 2018-07-26T02:32:25.962Z] Session [215170d0-907c-11e8-af18-d95c4fec87f7] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/site-e4ab2150.js:1)
+[ERROR - 2018-07-26T02:32:29.157Z] Session [215170d0-907c-11e8-af18-d95c4fec87f7] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:32:29.157Z] Session [215170d0-907c-11e8-af18-d95c4fec87f7] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[INFO  - 2018-07-26T02:33:35.773Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-07-26T02:33:35.775Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '9941e5d0-907b-11e8-b6d0-5b7a14787ccc', because windowless
+[INFO  - 2018-07-26T02:33:36.256Z] GhostDriver - Main - running on port 15113
+[INFO  - 2018-07-26T02:33:37.017Z] Session [4c96dd20-907c-11e8-bd01-83335ec2719e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-26T02:33:37.017Z] Session [4c96dd20-907c-11e8-bd01-83335ec2719e] - page.customHeaders:  - {}
+[INFO  - 2018-07-26T02:33:37.017Z] Session [4c96dd20-907c-11e8-bd01-83335ec2719e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-26T02:33:37.017Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4c96dd20-907c-11e8-bd01-83335ec2719e
+[ERROR - 2018-07-26T02:33:40.734Z] Session [4c96dd20-907c-11e8-bd01-83335ec2719e] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:33:40.735Z] Session [4c96dd20-907c-11e8-bd01-83335ec2719e] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[ERROR - 2018-07-26T02:33:41.176Z] Session [4c96dd20-907c-11e8-bd01-83335ec2719e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.pageScript.includes("pages/root")')
+[ERROR - 2018-07-26T02:33:41.177Z] Session [4c96dd20-907c-11e8-bd01-83335ec2719e] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/init-7a220300.js:19)
+[ERROR - 2018-07-26T02:33:41.190Z] Session [4c96dd20-907c-11e8-bd01-83335ec2719e] - page.onError - msg: TypeError: undefined is not an object (evaluating 'MC.ScriptLoader.load')
+[ERROR - 2018-07-26T02:33:41.191Z] Session [4c96dd20-907c-11e8-bd01-83335ec2719e] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/site-e4ab2150.js:1)
+[ERROR - 2018-07-26T02:33:42.866Z] Session [4c96dd20-907c-11e8-bd01-83335ec2719e] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:33:42.866Z] Session [4c96dd20-907c-11e8-bd01-83335ec2719e] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[INFO  - 2018-07-26T02:36:16.364Z] GhostDriver - Main - running on port 33802
+[INFO  - 2018-07-26T02:36:17.116Z] Session [ac042f60-907c-11e8-8ac6-19a7c0a471c7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-26T02:36:17.117Z] Session [ac042f60-907c-11e8-8ac6-19a7c0a471c7] - page.customHeaders:  - {}
+[INFO  - 2018-07-26T02:36:17.117Z] Session [ac042f60-907c-11e8-8ac6-19a7c0a471c7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-26T02:36:17.117Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ac042f60-907c-11e8-8ac6-19a7c0a471c7
+[ERROR - 2018-07-26T02:36:18.119Z] Session [ac042f60-907c-11e8-8ac6-19a7c0a471c7] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:36:18.141Z] Session [ac042f60-907c-11e8-8ac6-19a7c0a471c7] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[ERROR - 2018-07-26T02:36:18.647Z] Session [ac042f60-907c-11e8-8ac6-19a7c0a471c7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.pageScript.includes("pages/root")')
+[ERROR - 2018-07-26T02:36:18.648Z] Session [ac042f60-907c-11e8-8ac6-19a7c0a471c7] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/init-7a220300.js:19)
+[ERROR - 2018-07-26T02:36:18.662Z] Session [ac042f60-907c-11e8-8ac6-19a7c0a471c7] - page.onError - msg: TypeError: undefined is not an object (evaluating 'MC.ScriptLoader.load')
+[ERROR - 2018-07-26T02:36:18.662Z] Session [ac042f60-907c-11e8-8ac6-19a7c0a471c7] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/site-e4ab2150.js:1)
+[ERROR - 2018-07-26T02:36:19.636Z] Session [ac042f60-907c-11e8-8ac6-19a7c0a471c7] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:36:19.636Z] Session [ac042f60-907c-11e8-8ac6-19a7c0a471c7] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[INFO  - 2018-07-26T02:37:23.771Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-07-26T02:37:23.774Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '215170d0-907c-11e8-af18-d95c4fec87f7', because windowless
+[INFO  - 2018-07-26T02:38:36.770Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-07-26T02:38:36.771Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '4c96dd20-907c-11e8-bd01-83335ec2719e', because windowless
+[INFO  - 2018-07-26T02:41:16.765Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-07-26T02:41:16.767Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'ac042f60-907c-11e8-8ac6-19a7c0a471c7', because windowless
+[INFO  - 2018-07-26T02:41:38.760Z] GhostDriver - Main - running on port 40556
+[INFO  - 2018-07-26T02:41:39.416Z] Session [6c1ecdf0-907d-11e8-844c-c7f0609ecc41] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-26T02:41:39.416Z] Session [6c1ecdf0-907d-11e8-844c-c7f0609ecc41] - page.customHeaders:  - {}
+[INFO  - 2018-07-26T02:41:39.417Z] Session [6c1ecdf0-907d-11e8-844c-c7f0609ecc41] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-26T02:41:39.417Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6c1ecdf0-907d-11e8-844c-c7f0609ecc41
+[ERROR - 2018-07-26T02:41:40.332Z] Session [6c1ecdf0-907d-11e8-844c-c7f0609ecc41] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:41:40.333Z] Session [6c1ecdf0-907d-11e8-844c-c7f0609ecc41] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
+[ERROR - 2018-07-26T02:41:40.868Z] Session [6c1ecdf0-907d-11e8-844c-c7f0609ecc41] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.pageScript.includes("pages/root")')
+[ERROR - 2018-07-26T02:41:40.869Z] Session [6c1ecdf0-907d-11e8-844c-c7f0609ecc41] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/init-7a220300.js:19)
+[ERROR - 2018-07-26T02:41:40.887Z] Session [6c1ecdf0-907d-11e8-844c-c7f0609ecc41] - page.onError - msg: TypeError: undefined is not an object (evaluating 'MC.ScriptLoader.load')
+[ERROR - 2018-07-26T02:41:40.887Z] Session [6c1ecdf0-907d-11e8-844c-c7f0609ecc41] - page.onError - stack:
+  (anonymous function) (https://mailchimp.com/assets/scripts/site-e4ab2150.js:1)
+[ERROR - 2018-07-26T02:41:42.522Z] Session [6c1ecdf0-907d-11e8-844c-c7f0609ecc41] - page.onError - msg: PJS Error: current-user-segment 
+ TypeError: undefined is not an object (evaluating 'visitorData.custom[9839415098]')
+[ERROR - 2018-07-26T02:41:42.522Z] Session [6c1ecdf0-907d-11e8-844c-c7f0609ecc41] - page.onError - stack:
+  error (https://cdn.optimizely.com/js/8896740779.js:25)
